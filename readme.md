@@ -1,8 +1,8 @@
-# Pokemon Database :black_joker:
+# Pokemon Database 🃏:
 
 This project is a relational database optimized for PostgreSQL. Its purpose is to manage Pokémon cards.
 
-## :tools: Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 * **PostgreSQL**: Relational database.
 * **SQL**: Structured Query Language used for schema creation and seeding.
