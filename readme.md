@@ -2,7 +2,7 @@
 
 This project is a relational database optimized for PostgreSQL. Its purpose is to manage Pokémon cards.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
 * **PostgreSQL**: Relational database.
 * **SQL**: Structured Query Language used for schema creation and seeding.
